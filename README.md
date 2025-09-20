@@ -4,7 +4,7 @@
 
 Manipulations expérimentales réalisées par Florian TOPEZA, Julie RENAUD et Ayman MISBAH, sous la supervision de Magali ESTRIBEAU et Lucrezia MIGLIORIN, dans le cadre du module de pratique expérimentale à l'ISAE-SUPAERO, afin de caractériser les propriétés d'une caméra d'astrophysique Audine avec un capteur CCD.
 
-# Organisation du dépôt
+## Organisation du dépôt
 
 Ce dépôt contient le support de la soutenance du module, ainsi que les codes MATLAB utilisés pour les manipulations.
 
